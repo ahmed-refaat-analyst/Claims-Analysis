@@ -27,7 +27,7 @@ This repository contains files and projects demonstrating my skills in data anal
 ---
 
 ## 📸 Featured File
-![Sample Image](sample_image.jpeg)
+![Sample Image](claims.jpeg)
 
 ---
 
