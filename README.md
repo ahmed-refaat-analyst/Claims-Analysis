@@ -6,7 +6,7 @@ Here you will find a collection of files and projects demonstrating my skills in
 ---
 
 ## 📂 Repository Contents
-- **Images**: Sample files and charts  
+- **Images** & **Videos**: Sample files and charts  
 - **Data Projects**: Analysis using **Excel**, **Power BI**, and **SQL**  
 - **Reports**: PDF reports and dashboards  
 
