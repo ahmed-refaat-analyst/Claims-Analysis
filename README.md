@@ -27,7 +27,7 @@ This repository contains files and projects demonstrating my skills in data anal
 ---
 
 ## 📸 Featured File
-![Sample Image](WhatsApp Image 2025-09-08 at 12.52.08 AM.jpeg)
+![Sample Image](sample_image.jpeg)
 
 ---
 
