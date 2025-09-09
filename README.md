@@ -2,6 +2,9 @@
 
 ![Featured Image](claims.jpeg)
 
+## 🎥 Project Demo
+[Watch the demo video](Claims.mp4)
+
 ## Project Overview
 This Power BI project analyzes warranty claims from March to September 2024.  
 The dashboard tracks claim status (approved, rejected, partial), financial impact, and service center performance.  
